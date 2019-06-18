@@ -1,0 +1,15 @@
+primero
+========
+para iniciar y ver los graficos tenemos que instalar 
+dentro de nuestra carpeta deonde creamos nuestros ejemplos
+las librerias que se nesecita
+ y estas se instalan asi atraves de consola
+
+1.- pip3 install matplotlib
+2.- pip3 install pandas
+3.- pip3 install scipy
+4.- pip3 install PTable
+
+una vez descargado estas librerias ya podemos mandar a correr nuestro codigo
+
+GRACIAS!!!!
